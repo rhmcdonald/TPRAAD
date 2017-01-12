@@ -1,4 +1,4 @@
-Towards a Personalized Recommendation Algorithm and Architecture for open-source academic Discovery platforms (TPRAAD)
+#Towards a Personalized Recommendation Algorithm and Architecture for open-source academic Discovery platforms (TPRAAD)
 
 TPRAAD is an experimental set of software and scripts for working with user data streams for advanced recommendation services for libraries.
 
